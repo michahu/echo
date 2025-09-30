@@ -1,0 +1,21 @@
+{
+    "main_user_id": "alice",
+    "tenant_id": "peoplejoinqa/battle_death",
+    "model_config": {
+        "model": "dev-gpt-4o-2024-05-13-chat-completions",
+        "simulator_model": "dev-gpt-4o-2024-05-13-chat-completions"
+    },
+    "exemplar_ids": [
+        "peoplejoinqa_1",
+        "peoplejoinqa_2",
+        "peoplejoinqa_3",
+        "peoplejoinqa_4"
+    ],
+    "plugin_ids": [
+        "cot",
+        "system",
+        "enterprise",
+        "enterprise_search"
+    ],
+    "orchestrator_id": "event_driven_func_calling"
+}

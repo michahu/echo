@@ -1,0 +1,18 @@
+{
+    "main_user_id": "alice",
+    "tenant_id": "tenant_data_v2/scientist_1",
+    "model_config": {
+        "model": "dev-gpt-4-turbo"
+    },
+    "exemplar_ids": [
+        "peoplejoinqa_1_nocot",
+        "peoplejoinqa_2_nocot",
+        "peoplejoinqa_3_nocot",
+        "peoplejoinqa_4_nocot"
+    ],
+    "plugin_ids": [
+        "system",
+        "enterprise",
+        "enterprise_search"
+    ]
+}

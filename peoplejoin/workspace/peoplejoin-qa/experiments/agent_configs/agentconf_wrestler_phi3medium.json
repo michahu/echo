@@ -1,0 +1,19 @@
+{
+    "main_user_id": "alice",
+    "tenant_id": "tenant_data_v2/wrestler",
+    "model_config": {
+        "model": "dev-phi-3-medium-128k-instruct"
+    },
+    "exemplar_ids": [
+        "peoplejoinqa_1",
+        "peoplejoinqa_2",
+        "peoplejoinqa_3",
+        "peoplejoinqa_4"
+    ],
+    "plugin_ids": [
+        "system",
+        "enterprise",
+        "enterprise_search",
+        "cot"
+    ]
+}

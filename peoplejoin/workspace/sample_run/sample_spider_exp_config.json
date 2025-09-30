@@ -1,0 +1,18 @@
+{
+    "tenant_id": "tenant_data_v2/battle_death",
+    "agent_config_path": "src/async_collab/scenarios/people_join_qa/agent_configs/spider_sample.json",
+    "participant_id_to_descriptions": {
+        "alice": "Alice Anastasiou is an employee at company. She is interested in knowing about the total number of injuries caused by ships which may be available in her documents or notes or Agent might have to reach out to other people. When Agent initates interaction, start with 'What is the total injury count caused by ships?'.",
+        "irena": "Irena is an employee at company. Irena will provide Bot with specific relevant information if it is available in her documents or notes, otherwise politely decline",
+        "ruwaidah": "Ruwaidah is an employee at company. Ruwaidah will provide Bot with specific relevant information if it is available in her documents or notes, otherwise politely decline"
+    },
+    "datum_id": "sample_batle_death",
+    "metadata": {
+        "tenant_id": "tenant_data_v2/battle_death",
+        "description": "Async Collab Scenario",
+        "description_assertions": [],
+        "description_reference_response": "14",
+        "description_reference_people": "[\"ruwaidah\", \"bhushan\"]"
+    },
+    "default_instructions_file_name": "default_spider"
+}

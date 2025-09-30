@@ -1,0 +1,19 @@
+{
+    "main_user_id": "alice",
+    "tenant_id": "tenant_data_v2/wine_1",
+    "model_config": {
+        "model": "dev-gpt-4o-2024-05-13"
+    },
+    "exemplar_ids": [
+        "peoplejoinqa_1",
+        "peoplejoinqa_2",
+        "peoplejoinqa_3",
+        "peoplejoinqa_4"
+    ],
+    "plugin_ids": [
+        "system",
+        "enterprise",
+        "enterprise_search",
+        "cot"
+    ]
+}

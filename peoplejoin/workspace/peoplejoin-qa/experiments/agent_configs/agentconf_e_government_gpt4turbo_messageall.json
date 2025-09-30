@@ -1,0 +1,19 @@
+{
+    "main_user_id": "alice",
+    "tenant_id": "tenant_data_v2/e_government",
+    "model_config": {
+        "model": "dev-gpt-4-turbo"
+    },
+    "exemplar_ids": [
+        "peoplejoinqa_messageall_1",
+        "peoplejoinqa_messageall_2",
+        "peoplejoinqa_messageall_3",
+        "peoplejoinqa_messageall_4"
+    ],
+    "plugin_ids": [
+        "system",
+        "enterprise",
+        "enterprise_search",
+        "cot"
+    ]
+}
