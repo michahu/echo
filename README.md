@@ -1,5 +1,9 @@
 # ECHO: Experience Consolidation via Hindsight Optimization
 
+**New environments: XMiniGrid-Stateful, PeopleJoin-QA-Stateful**
+
+Check out XMiniGrid-Stateful, under `/xminigrid`, for an easy-to-run online learning benchmark for LLM agents!
+
 This repository contains the implementation of ECHO, a prompting framework that adapts hindsight experience replay from reinforcement learning for language model agents. ECHO generates optimized trajectories for alternative goals from failed attempts, creating synthetic positive examples that improve sample efficiency in novel environments. We evaluate ECHO on XMiniGrid-Stateful and PeopleJoin-QA-Stateful, demonstrating up to 80% performance improvements over vanilla language agent baselines.
 
 ## Installation
