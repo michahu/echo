@@ -1,4 +1,4 @@
-# Sample-Efficient Online Learning in LM Agents via Hindsight Trajectory Rewriting
+# ECHO: Experience Consolidation via Hindsight Optimization
 
 **New environments: XMiniGrid-Stateful, PeopleJoin-QA-Stateful**
 
