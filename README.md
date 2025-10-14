@@ -70,5 +70,4 @@ bash workspace/scripts/eval_all.sh
       primaryClass={cs.LG},
       url={https://arxiv.org/abs/2510.10304}, 
 }
-}
 ```
