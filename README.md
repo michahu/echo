@@ -1,4 +1,4 @@
-# ECHO: Experience Consolidation via Hindsight Optimization
+# Sample-Efficient Online Learning in LM Agents via Hindsight Trajectory Rewriting
 
 **New environments: XMiniGrid-Stateful, PeopleJoin-QA-Stateful**
 
@@ -61,17 +61,14 @@ bash workspace/scripts/eval_all.sh
 
 ## Citation
 ```
-@inproceedings{
-    hu2025sampleefficient,
-    title={Sample-Efficient {LLM} Agents via Hindsight Optimization},
-    author={Michael Y. Hu and Benjamin Van Durme and Jacob Andreas and Harsh Jhamtani},
-    booktitle={NeurIPS 2025 Workshop on Bridging Language, Agent, and World Models for Reasoning and Planning},
-    year={2025},
-    url={https://openreview.net/forum?id=HQsdiJghaB}
+@misc{hu2025sampleefficient,
+      title={Sample-Efficient Online Learning in LM Agents via Hindsight Trajectory Rewriting}, 
+      author={Michael Y. Hu and Benjamin Van Durme and Jacob Andreas and Harsh Jhamtani},
+      year={2025},
+      eprint={2510.10304},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2510.10304}, 
 }
-@misc{jhamtani2025PeopleJoin,
-      title={LM Agents for Coordinating Multi-User Information Gathering}, 
-      author={Harsh Jhamtani and Jacob Andreas and Benjamin Van Durme},
-      year={2025}
 }
 ```
